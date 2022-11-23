@@ -1,0 +1,10 @@
+{
+  "Result": "ARRAY",
+  "UserLogin": "",
+  "Password": "",
+  "SortBy": "Age",
+  "StateTypeIDs": [2, 3],
+  "Limit": 30,
+  "DynamicFields": 1,
+  "AllArticles": 1
+}
